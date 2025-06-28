@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadyadam
 - 👀 I’m interested in making applications and software that makes an impact in everyday life.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI/ML
 - 💞️ I’m looking to collaborate on any thing that peaks my intrest.
 - 📫 How to reach me fadyadam@gmail.com
 
